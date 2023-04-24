@@ -1,0 +1,13 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.user
+*.obj
+*.cache
+*.log
+*/bin/*
+*/obj/*
+project.lock.json
+project.fragment.lock.json
+artifacts/
