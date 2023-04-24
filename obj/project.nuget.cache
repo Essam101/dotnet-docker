@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PjWsdqGNcTUvMsqrragJkEKpXKw4SnODs5iFE6jwoMYYpgn8wFrQmVpHYR7pVu8Cn7RPBmV+WmKjhWegLJNcNQ==",
+  "dgSpecHash": "OcEohwugD6rdsl+9XWmFVxrc6IR9e+3Q3rugstP95sFNvLHye22hGrRKWe4jbbe/a+nV71BDbBeXldDDhrNk+w==",
   "success": true,
   "projectFilePath": "F:\\Work\\Private\\dotnet-docker\\dotnet-docker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\essam\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\essam\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\essam\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\essam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\essam\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\essam\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\essam\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
